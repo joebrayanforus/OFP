@@ -23,6 +23,6 @@ Woche 6: [Folien](OFP_Java.pdf), [Video1](https://youtu.be/fv8Kd4dMu98), [Video2
   + [08 Ausnahmebehandlung](/08_Ausnahmebehandlung/)
   + [09 Serialisierung](/09_Serialisierung/)
     
-Woche 7: [Folien](OFP_Java.pdf), [Video1](https://youtu.be/jnsj2ctVkcw), Quellcode:
+Woche 7: [Folien](OFP_Java.pdf), [Video1](https://youtu.be/jnsj2ctVkcw), Quellcode
   + [10 Threads und Sockets](/10_ThreadsSockets/)
     
